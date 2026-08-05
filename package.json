@@ -2,6 +2,7 @@
   "name": "profile-webpage",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://tanvi1310.github.io/Portfolio",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
