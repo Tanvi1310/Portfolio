@@ -1,0 +1,28 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+/* Sections styling */
+section {
+  padding: 60px 0;
+}
+
+section:nth-child(odd) {
+  background-color: var(--bg-white);
+}
+
+section:nth-child(even) {
+  background-color: var(--bg-light);
+}
+
+@media (max-width: 768px) {
+  section {
+    padding: 40px 0;
+  }
+}
