@@ -20,7 +20,7 @@ function HeroSection() {
           </div>
           <div className="hero-image">
             <div className="avatar-placeholder">
-              <img src="/profile.jpeg" alt="Profile Avatar" />
+              <img src="profile.jpeg" alt="Profile Avatar" />
             </div>
           </div>
         </div>
